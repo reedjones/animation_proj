@@ -1,0 +1,134 @@
+{
+  "name": "The Tunnel",
+  "theme_description": "The overall aesthetic blends surreal, \npsychedelic, and metaphysical visuals with grounded urban and natural settings. \nThere's an underlying theme of interconnectedness between different planes of existence. ",
+  "sequences": [
+    {
+      "name": "Sequence 1: Disheveled Apartment",
+      "id": "Disheveled Apartment",
+      "action": "Black teenager and flamboyant rapper-like man having a surreal conversation",
+      "visuals": "Surreal atmosphere, morphing objects, fractal folding of space",
+      "aesthetic": "Psychedelic, unsettling, mind-bending",
+      "prompts": [
+        {
+          "prompt": "A disheveled apartment with a black teenager standing opposite a flamboyant man dressed like a rapper archetype. The room has a surreal atmosphere with objects morphing and shifting."
+        },
+        {
+          "prompt": "In the same surreal, disheveled apartment from the previous frame, the conversation between the black teenager and flamboyant rapper-like man becomes increasingly trippy. The reality around them distorts, with objects morphing and fractal patterns emerging."
+        },
+        {
+          "prompt": "Continuing from the previous surreal scene in the apartment, mid-conversation the flamboyant man's voice distorts layering with deeper tones and a woman's voice, referencing 'the tunnel'. The teenager's eyes widen as the scene freezes."
+        }
+      ],
+      "storyboard_images": [
+        {
+          "description": "Establishing the surreal apartment setting with teenager and flamboyant man",
+          "id": "A"
+        },
+        {
+          "description": "Conversation getting trippy, reality distorting with fractal folds",
+          "id": "B"
+        },
+        {
+          "description": "Cliff-hanger of man's voice distorting, referencing 'the tunnel'",
+          "id": "C"
+        }
+      ]
+    },
+    {
+      "name": "Sequence 2: Lush Jungle",
+      "id": "Lush Jungle",
+      "action": "Protagonist (a black teenager, male) navigating through dense jungle where mystical phenomena are abundant, pursued by unseen force.",
+      "visuals": "Ancient civilizations, Roots/leaves growing, man with spear, feminine face forming in forest",
+      "aesthetic": "Mystical, primal, metaphysical undertones",
+      "prompts": [
+        {
+          "prompt": "A dense, lush jungle setting where the protagonist navigates through thick foliage, being pursued by some unseen force. Roots and leaves sprout as his feet disturb the jungle floor."
+        },
+        {
+          "prompt": "As the protagonist moves deeper into the lush jungle, he encounters signs of ancient civilizations and mystical phenomena hinting at the interconnectedness of past and present."
+        },
+        {
+          "prompt": "A large feminine face forms within the jungle foliage, ethereal yet haunting, silently watching over the protagonist as he journeys through the depths of the jungle."
+        }
+      ],
+      "storyboard_images": [
+        {
+          "description": "Introducing lush jungle setting, protagonist being pursued",
+          "id": "A"
+        },
+        {
+          "description": "Signs of ancient civilizations, mystical phenomena",
+          "id": "B"
+        },
+        {
+          "description": "Feminine face forming in forest, watching the protagonist",
+          "id": "C"
+        }
+      ]
+    },
+    {
+      "name": "Sequence 3: Modern Bedroom to City Street",
+      "id": "Modern Bedroom to City Street",
+      "action": "Teenager wakes up, heads into city - aloof and disconnected. Feminine face forming on wall (hallucination), then hit by bus.",
+      "visuals": "Busy cityscape blurring, fast-paced, paramedics/onlookers",
+      "aesthetic": "Urban, detached, mechanical indifference",
+      "prompts": [
+        {
+          "prompt": "A modern bedroom with a black teenager waking up on the bed, seeming aloof and disconnected from his surroundings as he gets up and heads out."
+        },
+        {
+          "prompt": "A busy city street with the teenager walking through the crowds, disconnected. The surroundings blur and move at a faster pace. A haunting feminine face forms briefly on a wall, but the teenager brushes it off."
+        },
+        {
+          "prompt": "The teenager lies on the ground after being struck by a bus while crossing the street. A crowd gathers around as paramedics rush to the scene. The city continues its mechanical march, indifferent."
+        }
+      ],
+      "storyboard_images": [
+        {
+          "description": "Teenager waking up in modern bedroom, seeming disconnected",
+          "id": "A"
+        },
+        {
+          "description": "Busy city streets, feminine face hallucination on wall",
+          "id": "B"
+        },
+        {
+          "description": "Teenager getting hit by bus, paramedics/onlookers",
+          "id": "C"
+        }
+      ]
+    },
+    {
+      "name": "Sequence 4: Tunnel of Light",
+      "id": "Tunnel of Light",
+      "action": "Tunnel in space with stream of souls, feminine face forming. Teenager moves towards face, away from soul stream. Face shows on tunnel wall, teen touches wall revealing concrete underneath.",
+      "visuals": "Cosmic tunnel, ethereal face, concrete beneath film layer",
+      "aesthetic": "Metaphysical, existential, revelation/choice",
+      "prompts": [
+        {
+          "prompt": "A tunnel of brilliant light in the cosmic vastness of space, surrounded by stars. A stream of human souls mindlessly flows into the tunnel's light."
+        },
+        {
+          "prompt": "The teenager moves away from the stream of souls towards a forming feminine face outside the tunnel. The face exudes an otherworldly aura, its expression shifting between curiosity and seriousness."
+        },
+        {
+          "prompt": "The face positions itself on the semi-transparent tunnel wall. When the teenager touches the wall, a ripple effect reveals concrete underneath the ethereal film layer. After a moment's realization, he darts out of the tunnel into the cosmic blackness."
+        }
+      ],
+      "storyboard_images": [
+        {
+          "description": "Cosmic tunnel setting with stream of souls flowing in",
+          "id": "A"
+        },
+        {
+          "description": "Teenager drawn to feminine face outside tunnel",
+          "id": "B"
+        },
+        {
+          "description": "Touching tunnel wall, revealing concrete underneath",
+          "id": "C"
+        }
+      ]
+    }
+  ]
+}

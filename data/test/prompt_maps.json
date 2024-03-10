@@ -1,0 +1,33 @@
+{
+  "maps": [
+    {
+      "name": "chat_gpt_one",
+      "maps": [
+        {
+          "prompt_map": "0: The teenager and the local patriarch engaged in conversation, disheveled apartment background | 32: Objects in the room start to morph and shift, creating a surreal atmosphere | 64: Close-up of the teenager's face, showing confusion and disbelief | 96: Freeze-frame of the teenager's widened eyes, indicating realization",
+          "head_prompt": "Surreal depiction of a disheveled apartment, with the teenager and the local patriarch engaged in cryptic conversation, objects morphing and shifting around them",
+          "tail_prompt": "Sudden realization dawns on the teenager, freeze-frame capturing the moment of realization",
+          "frames": 128
+        },
+        {
+          "prompt_map": "0: Transition from the disheveled apartment to the lush jungle landscape | 32: Shots of the teenager navigating through dense foliage, pursued by unseen forces | 64: Discovery of ancient ruins and mystical phenomena hidden within the jungle | 96: Introduction of the feminine face watching from the shadows",
+          "head_prompt": "Transition to a lush jungle landscape, with the teenager navigating through dense foliage and encountering mysterious phenomena",
+          "tail_prompt": "Mysterious presence of the feminine face watching from the shadows, hinting at deeper mysteries within the jungle",
+          "frames": 128
+        },
+        {
+          "prompt_map": "0: Return to the modern cityscape, with the teenager lying on the ground after being hit by a bus | 32: Flashbacks to moments of disconnect and confusion experienced by the teenager | 64: Crowd of onlookers and paramedics surrounding the scene of the accident | 96: Reappearance of the feminine face amidst the chaos",
+          "head_prompt": "Urban setting with the teenager lying on the ground after the accident, flashbacks to moments of confusion, and the mysterious presence of the feminine face",
+          "tail_prompt": "Mysterious presence of the feminine face amidst the chaos, signaling a pivotal moment in the protagonist's journey",
+          "frames": 128
+        },
+        {
+          "prompt_map": "0: The protagonist moves away from the stream of souls towards the forming face | 32: The tunnel's brilliance dims as he approaches the enigmatic face | 64: The protagonist's eyes beam toward the face, signaling a moment of connection | 96: Camera pans out to show the protagonist's decisive choice to turn away from the light",
+          "head_prompt": "The protagonist defies the pull of the tunnel of light and moves towards the enigmatic face, signaling a moment of revelation and transformation",
+          "tail_prompt": "The protagonist's decisive choice to turn away from the light, embracing a new path forward",
+          "frames": 128
+        }
+      ]
+    }
+  ]
+}

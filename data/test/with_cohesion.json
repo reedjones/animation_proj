@@ -1,0 +1,52 @@
+{
+  "sequences": [
+    {
+      "name": "Sequence 1: Disheveled Apartment",
+      "id": "Disheveled Apartment",
+      "prompt_map": {
+        "frame_count": 144,
+        "keyframe_prompts": [
+          "A messy apartment with a black teenager standing opposite a man dressed like a flamboyant rapper archetype, the room has a surreal atmosphere with objects morphing and shifting.",
+          "In the same messy apartment as before, the conversation between the same black teenager and flamboyant rapper-like man becomes increasingly trippy. The black teenager struggles to remain engaged as his mind wanders and reality distorts around them, with objects morphing and fractal patterns emerging.",
+          "Continuing the scene in the same messy apartment mid-conversation, the flamboyant rapper man's voice distorts layering with deeper tones and a stranger's voice, referencing 'the tunnel'. The same black teenager's eyes widen as the scene fades out."
+        ]
+      }
+    },
+    {
+      "name": "Sequence 2: Lush Jungle",
+      "id": "Lush Jungle",
+      "prompt_map": {
+        "frame_count": 144,
+        "keyframe_prompts": [
+          "A primal man moves through a dense, lush jungle while mystical phenomena occur around him. A geometric entity floats within the jungle foliage, ethereal yet haunting, silently watching over the primal man.",
+          "In the same dense lush jungle setting as before, the same primal man navigates through the thick foliage. Roots and leaves begin to sprout as his feet disturb the jungle floor, alerting an unseen force that begins to pursue him.",
+          "Continuing from the previous scene in the same dense lush jungle, the same primal man rushes through the depths clutching his spear as he is pursued by the unseen force."
+        ]
+      }
+    },
+    {
+      "name": "Sequence 3: Modern Bedroom to City Street",
+      "id": "Modern Bedroom to City Street",
+      "prompt_map": {
+        "frame_count": 176,
+        "keyframe_prompts": [
+          "A black teenager wakes up in his bed, seeming aloof and disconnected from his surroundings. The same black teenager gets up and reflects on his dreams before heading out the door.",
+          "A busy city street with the same black teenager staring at his phone while walking through the crowds, utterly disconnected. His surroundings blur and move at a faster pace as he remains fixated on his phone. He notices a geometric entity form on a wall but brushes it off as a hallucination.",
+          "The same black teenager lies on the ground after being struck by a bus while crossing the street engrossed in his phone. The city continues its mechanical march indifferently as a crowd gathers and paramedics rush to the accident scene."
+        ]
+      }
+    },
+    {
+      "name": "Sequence 4: Tunnel of Light",
+      "id": "Tunnel of Light",
+      "prompt_map": {
+        "frame_count": 192,
+        "keyframe_prompts": [
+          "The etheric tunnel of brilliant light in the cosmic vastness of space, surrounded by stars. A line of human souls moves mechanically like objects on a conveyor belt mindlessly marching into the etheric tunnel of light.",
+          "Among the same marching souls in the etheric tunnel as before, the same black teenager looks outward to his right where a geometric entity forms outside the semi-transparent walls, its otherworldly aura shifting between curiosity and seriousness.",
+          "In the same scene as before, the geometric entity positions on the semi-transparent wall of the etheric light tunnel. When the same black teenager touches the wall, a ripple effect reveals its texture is like an ethereal transparent goo. He changes course, darting out of the etheric tunnel of light and toward the mysterious geometric entity watching him from outer-space."
+        ]
+      }
+    }
+  ]
+}

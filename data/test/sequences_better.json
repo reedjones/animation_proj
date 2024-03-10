@@ -1,0 +1,168 @@
+{
+ "sequences": [
+   {
+     "name": "Sequence 1: Disheveled Apartment",
+     "id": "Disheveled Apartment",
+     "action": "A black teenager and a flamboyant rapper having a conversation in a messy apartment.",
+     "visuals": "Surreal atmosphere, morphing objects, fractal folding of space",
+     "aesthetic": "Psychedelic, unsettling, mind-bending",
+     "parts": [
+       {
+         "description": "A messy apartment with a black teenager standing opposite a man dressed like a flamboyant rapper archetype, the room has a surreal atmosphere with objects morphing and shifting."
+       },
+       {
+         "description": "In the same messy apartment from the previous frame, the conversation between the black teenager and flamboyant rapper-like man becomes increasingly trippy. The black teenager struggles to remain engaged in the conversation as his mind wonders and reality around them distorts, with objects morphing and fractal patterns emerging."
+       },
+       {
+         "description": "Continuing from the previous scene in the messy apartment, mid-conversation the flamboyant rapper man's voice distorts layering with deeper tones and a stranger's voice, referencing 'the tunnel'. We see the black teenager and his eyes widen, before the scene fades out."
+       }
+     ],
+     "storyboard": [
+       {
+         "description": "A messy apartment with 2 males, a black teenager and a flamboyant rapper archetype."
+       },
+       {
+         "description": "A black teenager's mind wondering as he struggles to pay attention to a conversation between himself and a rapper."
+       },
+       {
+         "description": "An ecstatic rapper in mid-speech as he's referencing 'the etheric tunnel of light' in the cosmos."
+       }
+     ],
+     "transitions": {
+       "in": "A black teenager opens his eyes and finds himself in a messy apartment with a flamboyant rapper-like man standing before him. The apartment has a surreal, unsettling atmosphere with objects morphing and shifting.",
+       "out": "The scene fades out as the flamboyant rapper's voice distorts and references 'the tunnel', and the black teenager's eyes widen as if waking from a dream."
+     },
+     "prompt_map": {
+       "frame_count": 144,
+       "keyframe_prompts": [
+         "A messy apartment with a black teenager standing opposite a man dressed like a flamboyant rapper archetype, the room has a surreal atmosphere with objects morphing and shifting.",
+         "In the same messy apartment, the conversation between the black teenager and flamboyant rapper-like man becomes increasingly trippy. The black teenager struggles to remain engaged as his mind wanders and reality distorts around them, with objects morphing and fractal patterns emerging.",
+         "Continuing the scene in the messy apartment mid-conversation, the flamboyant rapper man's voice distorts layering with deeper tones and a stranger's voice, referencing 'the tunnel'. The black teenager's eyes widen as the scene fades out."
+       ]
+     }
+   },
+   {
+     "name": "Sequence 2: Lush Jungle",
+     "id": "Lush Jungle",
+     "action": "A black teenager navigates through a dense jungle seeing mystical phenomena occur around him as he is pursued by an unseen force.",
+     "visuals": "Ancient civilizations, Roots/leaves growing, primal man, geometric entities forming in the jungle.",
+     "aesthetic": "Mystical, primal, tribal, metaphysical and occult undertones",
+     "parts": [
+        {
+         "description": "A primal man moves through a dense, lush jungle while mystical phenomena occur around him. A geometric entity floats within the jungle foliage, ethereal yet haunting, silently watching over a primal man."
+       },
+       {
+         "description": "In the same dense lush jungle setting where a primal man navigates through the thick foliage. Roots and leaves begin to sprout as a primal man's feet disturb the jungle floor alerting an unseen force that begins to pursue the man."
+       },
+        {
+         "description": "Continuing from the previous scene in the dense lush jungle, primal man as he rushes through the depths of the jungle clutching his spear as he is pursued by an unseen force."
+       }
+     ],
+     "storyboard": [
+       {
+         "description": "A lush jungle setting where a primal man is being pursued by an unseen force."
+       },
+       {
+         "description": "Signs of ancient civilizations, and mystical phenomena deep within the jungle."
+       },
+       {
+         "description": "Strange geometric entities forming in the jungle."
+       }
+     ],
+     "transitions": {
+       "in": "The scene transitions to a dense, lush jungle where a primal man moves through the foliage as mystical phenomena occur around him, with a geometric entity floating eerily in the jungle watching over him.",
+       "out": "As the primal man rushes through the depths of the jungle clutching his spear while being pursued by an unseen force, the scene transitions out."
+     },
+     "prompt_map": {
+       "frame_count": 144,
+       "keyframe_prompts": [
+         "A primal man moves through a dense, lush jungle while mystical phenomena occur around him. A geometric entity floats within the jungle foliage, ethereal yet haunting, silently watching over the primal man.",
+         "In the same lush jungle, a primal man navigates through the thick foliage. Roots and leaves begin to sprout as his feet disturb the jungle floor, alerting an unseen force that begins to pursue him.",
+         "Continuing the scene in the dense jungle, the primal man rushes through the depths clutching his spear as he is pursued by an unseen force."
+       ]
+     }
+   },
+   {
+     "name": "Sequence 3: Modern Bedroom to City Street",
+     "id": "Modern Bedroom to City Street",
+     "action": "A black teenager wakes up from his dream. A black teenager reflects on his dreams. A black teenager looks at his phone while he navigates the city - aloof and disconnected. A geometric entity watches a black teenager as he walks through the city. A black teenager is hit by bus while looking at his phone.",
+     "visuals": "Busy cityscape blurring, fast-paced, paramedics/onlookers",
+     "aesthetic": "Urban, emotionally detached, mechanical social indifference",
+     "parts": [
+       {
+         "description": "A black teenager wakes up in his bed, seeming aloof and disconnected from his surroundings. A black teenager gets up and reflects on his dreams before heading out the door."
+       },
+       {
+         "description": "A busy city street with a black teenager staring at his phone while walking through the crowds, disconnected. A black teenager stares at his phone as his surroundings blur and move around at a faster pace. A black teenager notices a geometric entity form on a wall in an urban area, but he brushes it off as a hallucination."
+       },
+       {
+         "description": "A black teenager lies on the ground after being struck by a bus while he was looking at his phone and crossing the street. The city continues its mechanical march, indifferent as a crowd gathers around and paramedics are rushed to the scene of an accident."
+       }
+     ],
+     "storyboard": [
+       {
+         "description": "A black teenager waking up in his bedroom, seeming disconnected and aloof."
+       },
+       {
+         "description": "Busy city streets in the downtown of an urban area."
+       },
+       {
+         "description": "Hallucinations forming on the walls in the downtown of an urban area."
+       }
+     ],
+     "transitions": {
+       "in": "The scene opens with a black teenager waking up in his bed, seeming aloof and disconnected from his surroundings before getting up to reflect on his dreams.",
+       "out": "As paramedics rush to the scene of the accident where the black teenager lies on the ground struck by a bus, the city continuing indifferently, the scene transitions out."
+     },
+     "prompt_map": {
+       "frame_count": 176,
+       "keyframe_prompts": [
+         "A black teenager wakes up in his bed, seeming aloof and disconnected from his surroundings. He gets up and reflects on his dreams before heading out the door.",
+         "A busy city street with a black teenager staring at his phone while walking through the crowds, utterly disconnected. His surroundings blur and move at a faster pace as he remains fixated on his phone. He notices a geometric entity form on a wall but brushes it off as a hallucination.",
+         "A black teenager lies on the ground after being struck by a bus while crossing the street engrossed in his phone. The city continues its mechanical march indifferently as a crowd gathers and paramedics rush to the accident scene."
+       ]
+     }
+   },
+   {
+     "name": "Sequence 4: Tunnel of Light",
+     "id": "Tunnel of Light",
+     "action": "Human souls march through outer-space and into the etheric tunnel of light. A geometric entity takes form in the cosmos. A black teenager reaches his hand out to touch the semi-transparent walls of the etheric tunnel of light revealing the texture of it's surface. Floating in space, a black teenager leaves the ranks of souls marching into the etheric tunnel of light to move towards a geometric entity who has taken interest in him.",
+     "visuals": "An etheric tunnel of light in the cosmos, a geometric entity in outer-space, an ethereal layer of semi-transparent goo.",
+     "aesthetic": "Metaphysical, existential, revelation/choice",
+     "parts": [
+       {
+         "description": "The etheric tunnel of brilliant light in the cosmic vastness of space, surrounded by stars. A line of human souls moving mechanically like objects on a conveyor belt mindlessly marches into the etheric tunnel of light."
+       },
+       {
+         "description": "Among the ranks of human souls marching through the etheric tunnel of light, a black teenager looks to his right, outward in the blackness of space a geometric entity if forming outside the semi-transparent walls of the etheric tunnel of light. In the blackness of deep-space the geometric entity exudes an otherworldly aura, its expression shifting between curiosity and seriousness."
+       },
+       {
+         "description": "A geometric entity positions itself onto the semi-transparent wall to the etheric tunnel of light. When the black teenager touches the wall to the etheric tunnel of light, a ripple effect reveals the texture is like an ethereal transparent layer of goo. A black teenager changes direction during his course down the etheric tunnel of light and darts out and into the cosmic blackness of space toward the direction of a mysterious geometric entity that has been watching him."
+       }
+     ],
+     "storyboard": [
+       {
+         "description": "Depths of the cosmos, outer-space. An entrance to the etheric tunnel of light in the cosmos. A stream of human souls flowing into the etheric tunnel of light moving mechanically like objects on a conveyor belt."
+       },
+       {
+         "description": "A Black teenager floating in outer-space is drawn away from the etheric tunnel of light and into the direction of a geometric entity floating in space outside and to the right of the tunnel."
+       },
+       {
+         "description": "A Black teenager floating in outer-space touching a semi-transparent wall of the etheric tunnel of light, revealing the texture of it's surface is like goo."
+       }
+     ],
+     "transitions": {
+       "in": "The scene opens in the cosmic vastness of space, revealing the etheric tunnel of brilliant light with a line of human souls marching mechanically into it like objects on a conveyor belt.",
+       "out": "As the black teenager darts away from the ranks of souls to move towards the mysterious geometric entity watching him in the depths of space, the scene transitions out."
+     },
+     "prompt_map": {
+       "frame_count": 192,
+       "keyframe_prompts": [
+         "The etheric tunnel of brilliant light in the cosmic vastness of space, surrounded by stars. A line of human souls moves mechanically like objects on a conveyor belt mindlessly marching into the tunnel.",
+         "Among the marching souls in the etheric tunnel, a black teenager looks outward to his right where a geometric entity forms outside the semi-transparent walls, its otherworldly aura shifting between curiosity and seriousness.",
+         "A geometric entity positions on the semi-transparent wall of the etheric light tunnel. When the black teenager touches the wall, a ripple effect reveals its texture is like an ethereal transparent goo. He changes course, darting out of the tunnel toward the mysterious geometric entity watching him."
+       ]
+     }
+   }
+ ]
+}
